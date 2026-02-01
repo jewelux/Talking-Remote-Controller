@@ -1,4 +1,4 @@
-# ESP32 Talking Remote Controller – User Guide (V1.0)
+# Talking Remote Controller – User Guide (V1.0)
 
 ## Purpose
 
@@ -37,8 +37,8 @@ All interaction is performed via a 4×4 keypad and audio output, enabling operat
 
 | Key | Short Press | Long Press |
 |-----|------------|------------|
-| A   | Select radio profile | Announce current radio profile |
-| B   | Toggle tuning frequency announcements | Announce tuning announcement state |
+| A   | Announce current radio profile |  Select radio profile|
+| B   | Toggle tuning frequency announcements | - |
 | *   | Announce current bank | Switch to next bank |
 
 *Exact functions may depend on the active radio profile.*
