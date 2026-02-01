@@ -25,10 +25,10 @@ All interaction is performed via a 4×4 keypad and audio output, enabling operat
 | Key | Short Press | Long Press |
 |-----|------------|------------|
 | 0   | Speak current frequency | Enter frequency input mode |
-| 4   | Speak operating mode | — |
+| 4   | Speak output power | — |
 | 7   | Speak S-meter | — |
 | 8   | Speak SWR | — |
-| 9   | Speak output power | — |
+| 9   | Speak operating mode | Change operating mode |
 | D   | — | Confirm numeric input |
 
 ---
