@@ -29,7 +29,7 @@ All interaction is performed via a 4×4 keypad and audio output, enabling operat
 | 7   | Speak S-meter | — |
 | 8   | Speak SWR | — |
 | 9   | Speak operating mode | Change operating mode |
-| D   | — | Confirm numeric input |
+| D   | Confirm numeric input | - |
 
 ---
 
@@ -50,7 +50,7 @@ All interaction is performed via a 4×4 keypad and audio output, enabling operat
 | Key | Function |
 |-----|----------|
 | * (long) | Cycle through banks |
-| D | ENTER / confirm numeric input |
+| D (short) | Confirm numeric input |
 
 ---
 
@@ -58,7 +58,7 @@ All interaction is performed via a 4×4 keypad and audio output, enabling operat
 
 Frequency entry is performed in Bank 1:
 
-1. Activate frequency input mode
+1. Activate frequency input mode (0 long)
 2. Enter digits using keys `0–9`
 3. Confirm with **ENTER**
 4. The new frequency is sent to the radio and spoken once for confirmation
